@@ -1,0 +1,167 @@
+message.ldoh.Gas=空气中弥漫着浓稠的气体
+message.ldoh.Lava.Pickup=熔岩太热而无法携带。
+message.ldoh.Lava.Break=熔岩从桶中融化。
+
+message.ldoh.JoinTeam=您已加入 %1$s 团队。
+message.ldoh.PostJoinTeam=Sneak，然后右键单击以使您的团队关注您。
+message.ldoh.OtherJoinTeam=%1$s 已加入 %2$s 团队;
+message.ldoh.DayCount=%1$s 天数。
+message.ldoh.FinalDay=最后一天的黎明。
+message.ldoh.FinalDaySubtitle=午夜时分，世界末日将开始。
+message.ldoh.WorldsEnd=空气中弥漫着死亡的味道。你已经可以感受到今晚将带来的恐怖。
+message.ldoh.EventEnd=当太阳终于升起时，你可以感觉到入侵结束了。
+message.ldoh.Evolution_0=僵尸已经进化了，现在可以打破方块了。
+message.ldoh.Evolution_1=僵尸已经进化，现在可以放置方块了。
+
+message.ldoh.TFHordeStart=一支敌军出现在地平线上。
+message.ldoh.TFHordeEnd=枪声开始减弱。
+
+message.ldoh.VillagerMessage0=Word 已经在 %1$s 的幸存平民中传播开来，他们建造了一个重重设防的大院。
+message.ldoh.VillagerMessage.Survivor=幸存者
+message.ldoh.VillagerMessage1=在基础结构的门上方放置一个 %1$s，平民就会开始来找你。
+
+message.ldoh.SealedCrate=使用撬棍右键单击以打开密封的板条箱
+message.ldoh.FilingCabinet=%1$s/%2$s %3$s
+
+commands.ldoh.StartBossEvent.usage=/startBossEvent
+commands.ldoh.StartBossEvent.success=Bosses 已生成，事件现已开始
+commands.ldoh.SpawnRaid.usage=/spawnRaid <raid 类型> <level>
+commands.ldoh.SpawnRaid.success=成功生成 %1$s 突袭。
+commands.ldoh.SpawnRaid.invalidValue=%1$s 是 /spawnRaid 的无效参数
+commands.ldoh.SpawnRaid.teamFail=您必须在 RED 或 BLU 团队中才能生成 %1$s 突袭。
+
+itemGroup.ldoh.ldohTab=LDoH 调整
+
+item.ldoh.TF2ProfessionToken.demoman.name=爆破手
+item.ldoh.TF2ProfessionToken.engineer.name=工程师
+item.ldoh.TF2ProfessionToken.heavy.name=重
+item.ldoh.TF2ProfessionToken.medic.name=医生
+item.ldoh.TF2ProfessionToken.pyro.name=火焰兵
+item.ldoh.TF2ProfessionToken.scout.name=侦察兵
+item.ldoh.TF2ProfessionToken.sniper.name=狙击手
+item.ldoh.TF2ProfessionToken.soldier.name=士兵
+item.ldoh.TF2ProfessionToken.spy.name=间谍
+item.ldoh.ClothingFabric.name=衣物边角料
+item.ldoh.DiamondNugget.name=钻石块
+item.ldoh.Syringe.Empty.name=空注射器
+item.ldoh.Syringe.Blood.name=充血注射器
+item.ldoh.Syringe.Cure.name=Enriched 抗体血清
+item.ldoh.Syringe.Contaminated.name=受污染的注射器
+item.ldoh.MobSpawner.name=生成
+item.ldoh.GasFilter.name=气体过滤器
+item.ldoh.GasMask.name=防毒面具
+item.ldoh.NurseHat.name=护士帽
+item.ldoh.MechanicHat.name=机械帽
+item.ldoh.Hardhat.name=安全帽
+item.ldoh.Bonesaw.name=骨锯
+item.ldoh.incendiary_ammo.name=燃烧弹药
+item.ldoh.FireAxe.name=火斧
+item.ldoh.FireHat.name=消防员头盔
+item.ldoh.BlankTurretUpgrade.name=空白哨兵炮塔升级
+item.ldoh.TurretUpgrade.name=哨兵炮塔升级
+item.ldoh.CandyCorn.name=糖果玉米
+item.ldoh.TornNote.name=撕裂的笔记
+
+tile.ldoh.BarbedWireIron.name=铁丝网
+tile.ldoh.BarbedWireGold.name=金色铁丝网
+tile.ldoh.BarbedWireDiamond.name=镶嵌钻石的铁丝网
+tile.ldoh.Landmine.name=地雷
+tile.ldoh.Turret.name=哨兵炮塔
+tile.ldoh.EnemyTurret.name=敌方炮塔
+tile.ldoh.FlickeringLight.name=闪烁的灯光
+tile.ldoh.HordeSpawner.name=部落生成者
+tile.ldoh.FilingCabinet.name=文件柜
+tile.ldoh.LaboratoryBlock.name=实验室块
+
+tooltip.ldoh.BarbedWire=减速并对生物造成伤害。
+tooltip.ldoh.BarbedWire.Iron=具有中等耐久度和低伤害。
+tooltip.ldoh.BarbedWire.Gold=耐久度低，伤害高。
+tooltip.ldoh.BarbedWire.Diamond=具有非常高的耐久度和中等伤害。
+tooltip.ldoh.BarbedWire.durability=耐久性：
+tooltip.ldoh.Landmine0=踩下时会爆炸，造成大量伤害。
+tooltip.ldoh.Landmine1=放置后需要 2 分钟才能灌注。
+tooltip.ldoh.Turret0=自动射击怪物和敌方雇佣兵/玩家。
+tooltip.ldoh.Turret1=使用基本弹药或燃烧弹药。
+tooltip.ldoh.Turret2=用铁修复。
+tooltip.ldoh.EnemyTurret0=自动射击所有怪物、雇佣兵和玩家。
+tooltip.ldoh.EnemyTurret1=拥有无限弹药。
+tooltip.ldoh.AntibodySerum=治愈你的盟友免受感染。
+tooltip.ldoh.Syringe=按住鼠标右键抽血。
+tooltip.ldoh.AntibodySerum=治愈你的盟友免受感染。
+tooltip.ldoh.incendiary_ammo0=炮塔的可选弹药。
+tooltip.ldoh.incendiary_ammo1=对寄生虫造成额外伤害。
+tooltip.ldoh.FilingCabinet=最多可以存储单个项目的 64 堆栈。
+tooltip.ldoh.ExpBottle=可以喝醉以获得经验。
+tooltip.ldoh.Ammo=使用弹药：%1$s
+
+tooltip.ldoh.TurretUpgrade.hopping.name=跳跃
+tooltip.ldoh.TurretUpgrade.hopping.description=可以从带有料斗和管道的炮塔中插入/提取非升级物品。
+tooltip.ldoh.TurretUpgrade.ammo_optimization.name=弹药优化
+tooltip.ldoh.TurretUpgrade.ammo_optimization.description=自动切换到当前目标最有效的弹药类型。
+tooltip.ldoh.TurretUpgrade.barrel_spin.name=增加桶旋
+tooltip.ldoh.TurretUpgrade.barrel_spin.description=每次升级将射速提高 1 刻度。
+tooltip.ldoh.TurretUpgrade.range.name=扩展范围
+tooltip.ldoh.TurretUpgrade.range.description=每次升级增加 20 格挡距离。
+tooltip.ldoh.TurretUpgrade.redstone_control.name=红石控件
+tooltip.ldoh.TurretUpgrade.redstone_control.description=炮塔只有在红石提供动力时才会激活。
+tooltip.ldoh.TurretUpgrade.australium.name=Australium
+tooltip.ldoh.TurretUpgrade.rifling.name=改进的膛线
+tooltip.ldoh.TurretUpgrade.rifling.description=每刻度增加 5 格挡炮塔射弹速度。
+tooltip.ldoh.TurretUpgrade.predictive_targeting.name=预测性定位
+tooltip.ldoh.TurretUpgrade.predictive_targeting.description=炮塔预测目标移动到的位置并先发制人地开火。
+
+entity.ldoh.CrawlingZombie.name=僵尸爬虫
+entity.ldoh.CrawlingHusk.name=Husk 爬虫
+entity.ldoh.TFZombie.name=TF2 NPC 僵尸
+entity.ldoh.NurseZombie.name=僵尸护士
+entity.ldoh.SwatZombie.name=斯瓦特僵尸
+entity.ldoh.ZombieMechanic.name=僵尸机械师
+entity.ldoh.ZombieTechnician.name=僵尸技术员
+entity.ldoh.ZombieFireman.name=僵尸消防员
+entity.ldoh.LibraryZombie.name=库僵尸
+entity.ldoh.HospitalZombie.name=医院僵尸
+entity.ldoh.InfCloudPhoenix.name=同化云凤凰
+entity.ldoh.InfDesertPhoenix.name=同化沙漠凤凰
+entity.ldoh.InfEnderPhoenix.name=同化末影凤凰
+entity.ldoh.InfFirePhoenix.name=同化火凤凰
+entity.ldoh.InfNetherPhoenix.name=同化下界凤凰
+entity.ldoh.InfSnowPhoenix.name=同化雪凤凰
+entity.ldoh.InfTwilightPhoenix.name=同化暮光凤凰
+entity.ldoh.InfWaterPhoenix.name=同化水凤凰
+entity.ldoh.InfCloudPhoenix.name=同化云凤凰
+entity.ldoh.Juggernaut.name=剑圣
+
+entity.ldoh.ZombieNoBreak.name=僵尸
+entity.ldoh.ZombieNoPlace.name=僵尸
+entity.ldoh.ZombieNoBreakOrPlace.name=僵尸
+entity.ldoh.HuskNoBreak.name=外壳
+entity.ldoh.HuskNoPlace.name=果壳
+entity.ldoh.HuskNoBreakOrPlace.name=果壳
+
+entity.ldoh.Turret.name=哨兵炮塔
+entity.ldoh.EnemyTurret.name=敌方炮塔
+
+death.attack.ToxicGas=%1$s 被有毒气体窒息
+death.attack.Shrapnel=%1$s 去了 kaboom
+death.attack.BarbedWire=%1$s 遇到了一个棘手的结局
+
+gui.text.Hunger=饥饿
+gui.text.Curing=注射器
+gui.turret.text.Upgrades=升级：
+gui.turret.text.Disabled=禁用
+gui.turret.text.NoTarget=空闲
+gui.turret.text.Hostile=敌对
+gui.turret.text.NoOwner=无所有者
+gui.turret.text.Owner=所有者：
+gui.turret.text.Target=目标：
+gui.turret.text.Range=范围：
+gui.turret.text.FireRate=速度：
+
+jei.category.ldoh.Syringe=注射器
+
+ldoh.subtitle.tf.enemy=敌方团队接近
+ldoh.subtitle.tf.ally=盟友团队方法
+ldoh.subtitle.landmine.beep=地雷哔哔声
+
+tooltip.ldoh.Crowbar=右键单击以打开密封的板条箱
+tooltip.ldoh.UnlitTorch=用火柴盒制作
